@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.exe
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.deps.json
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.runtimeconfig.json
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.dll
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\ref\BossOfTheGymNetwork.dll
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\bin\Debug\net5.0\BossOfTheGymNetwork.pdb
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.AssemblyInfo.cs
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.dll
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\ref\BossOfTheGymNetwork.dll
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.pdb
+C:\Users\ethan\source\repos\BossOfTheGymNetwork\BossOfTheGymNetwork\obj\Debug\net5.0\BossOfTheGymNetwork.genruntimeconfig.cache
